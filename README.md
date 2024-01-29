@@ -7,4 +7,4 @@ I added a few self-made notes for better understanding and practice.
 
 This is a good web resource in Russian about networks and how they work. https://www.asozykin.ru/courses/networks_online
 Лектором является Андрей Созыкин (вы можете поддержать его через CloudTips
-Очень лаконично и по существу, без воды
+Объясняет очень лаконично и по существу, без воды )
